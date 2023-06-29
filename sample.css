@@ -196,7 +196,8 @@ p {
     text-align: left;
 }
 
-@media screen and (max-width: 600px) {
+/* @media screen and (max-width: 600px) { */
+@media{
     .container {
         height: 110px;
         width: 100%;
