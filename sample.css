@@ -1,4 +1,4 @@
-@media{
+
 body {
     background-color: #D4E9FF;
 }
@@ -196,11 +196,11 @@ p {
     font-family: 'Montserrat', sans-serif;
     text-align: left;
 }
-}
 
-/* @media screen and (max-width: 600px) { */
-/* @media{ */
-/*     .container {
+
+@media screen and (max-width: 600px) { 
+
+    .container {
         height: 110px;
         width: 100%;
         border-bottom: 4px double black;
@@ -368,7 +368,7 @@ p {
         width: auto;
         background-color: #EA9B9B;
         /* padding: 1%; */
-/*         border-radius: 7px;
+        border-radius: 7px;
         border: none;
         font-size: 4px;
     }
@@ -409,5 +409,5 @@ p {
     }
     .down-container h1{
         font-size: 12px;
-    } */
-} */
+    }
+}
